@@ -19,7 +19,7 @@ fetch('../assets/gams.json')
         subtext.textContent = item.subtext;
 
         gridItem.addEventListener('click', () => {
-          window.location.href = item.source;
+          openGam(item.source);
         });
 
         gridItem.appendChild(subtext);
@@ -37,3 +37,9 @@ fetch('../assets/gams.json')
   .catch(error => {
     console.error('Error loading games', error);
   });
+
+
+  function openGam(gamSrc) {
+    const newWindow = window.open('iframe.html', '_blank');
+    newWindow.gamSrc = gamSrc;
+  }
