@@ -1,41 +1,41 @@
 [
     {
-      "imgSrc": "https://allthegams.github.io/atgfiles/icons/drifthunters.jpg",
+      "imgSrc": "https://allthegams.github.io/atgfiles/drifthunters/icon.jpg",
       "subtext": "Drift Hunters",
       "source": "https://allthegams.github.io/atgfiles/drifthunters/"
     },
     {
-      "imgSrc": "https://allthegams.github.io/atgfiles/icons/motox3m.jpg",
+      "imgSrc": "https://allthegams.github.io/atgfiles/motox3m/icon.jpg",
       "subtext": "Moto X3M",
       "source": "https://allthegams.github.io/atgfiles/motox3m/"
     },
     {
-      "imgSrc": "https://allthegams.github.io/atgfiles/icons/paperio2.jpg",
+      "imgSrc": "https://allthegams.github.io/atgfiles/paperio2/icon.jpg",
       "subtext": "Paper io 2",
       "source": "https://allthegams.github.io/atgfiles/paperio2"
     },
     {
-      "imgSrc": "https://allthegams.github.io/atgfiles/icons/2048.png",
+      "imgSrc": "https://allthegams.github.io/atgfiles/2048/icon.png",
       "subtext": "2048",
       "source": "https://allthegams.github.io/atgfiles/2048"
     },
     {
-      "imgSrc": "https://allthegams.github.io/atgfiles/icons/ovo.jpg",
+      "imgSrc": "https://allthegams.github.io/atgfiles/ovo/icon.jpg",
       "subtext": "OvO",
       "source": "https://allthegams.github.io/atgfiles/ovo"
     },
     {
-      "imgSrc": "https://allthegams.github.io/atgfiles/icons/trimps.jpg",
+      "imgSrc": "https://allthegams.github.io/atgfiles/trimps/icon.jpg",
       "subtext": "Trimps",
       "source": "https://allthegams.github.io/atgfiles/trimps"
     },
     {
-      "imgSrc": "https://allthegams.github.io/atgfiles/icons/shapez.png",
+      "imgSrc": "https://allthegams.github.io/atgfiles/shapez/icon.png",
       "subtext": "shapezio",
       "source": "https://allthegams.github.io/atgfiles/shapezio"
     },
     {
-      "imgSrc": "https://allthegams.github.io/atgfiles/icons/getawayshootout.jpg",
+      "imgSrc": "https://allthegams.github.io/atgfiles/getawayshootout/icon.jpg",
       "subtext": "Getaway Shootout",
       "source": "https://allthegams.github.io/atgfiles/getawayshootout"
     }
