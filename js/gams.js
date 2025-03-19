@@ -19,7 +19,7 @@ fetch('../assets/gams.json')
         subtext.textContent = item.subtext;
 
         gridItem.addEventListener('click', () => {
-          openGam(item.source);
+          window.open(item.source).focus();
         });
 
         gridItem.appendChild(subtext);

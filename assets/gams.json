@@ -85,6 +85,11 @@
       "source": "https://allthegams.github.io/atgfiles/btd3/"
     },
     {
+      "imgSrc": "https://allthegams.github.io/atgfiles/btd5/icon.jpg",
+      "subtext": "Bloons TD 5",
+      "source": "https://allthegams.github.io/atgfiles/btd5/"
+    },
+    {
       "imgSrc": "https://allthegams.github.io/atgfiles/burritobison/Build/logo.png",
       "subtext": "Burrito Bison",
       "source": "https://allthegams.github.io/atgfiles/burritobison/"
@@ -103,6 +108,46 @@
       "imgSrc": "https://allthegams.github.io/atgfiles/championisland/icon.png",
       "subtext": "Champion Island",
       "source": "https://allthegams.github.io/atgfiles/championisland/"
+    },
+    {
+      "imgSrc": "https://allthegams.github.io/atgfiles/chess/icon.png",
+      "subtext": "Chess",
+      "source": "https://allthegams.github.io/atgfiles/chess/"
+    },
+    {
+      "imgSrc": "https://allthegams.github.io/atgfiles/chibiknight/icon.png",
+      "subtext": "Chibi Knight",
+      "source": "https://allthegams.github.io/atgfiles/chibiknight/"
+    },
+    {
+      "imgSrc": "https://allthegams.github.io/atgfiles/clickerheroes/icon.png",
+      "subtext": "Clicker Heroes",
+      "source": "https://allthegams.github.io/atgfiles/clickerheroes/"
+    },
+    {
+      "imgSrc": "https://allthegams.github.io/atgfiles/cluster-rush/icon.jpg",
+      "subtext": "Cluster Rush",
+      "source": "https://allthegams.github.io/atgfiles/cluster-rush/"
+    },
+    {
+      "imgSrc": "https://allthegams.github.io/atgfiles/colorswitch/icon.png",
+      "subtext": "Color Switch",
+      "source": "https://allthegams.github.io/atgfiles/colorswitch/"
+    },
+    {
+      "imgSrc": "https://allthegams.github.io/atgfiles/cookieclicker/icon.png",
+      "subtext": "Cookie Clicker",
+      "source": "https://allthegams.github.io/atgfiles/cookieclicker/"
+    },
+    {
+      "imgSrc": "https://allthegams.github.io/atgfiles/crossyroad/icon.png",
+      "subtext": "Crossy Road",
+      "source": "https://allthegams.github.io/atgfiles/crossyroad/"
+    },
+    {
+      "imgSrc": "https://allthegams.github.io/atgfiles/cuttherope/icon.png",
+      "subtext": "Cut The Rope",
+      "source": "https://allthegams.github.io/atgfiles/cuttherope/"
     }
   ]
   
