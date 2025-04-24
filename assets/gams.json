@@ -178,6 +178,61 @@
       "imgSrc": "https://allthegams.github.io/atgfiles/dragonballdevolution/images.jpeg",
       "subtext": "Dragon Ball Devolution",
       "source": "https://allthegams.github.io/atgfiles/dragonballdevolution/"
+    },
+    {
+      "imgSrc": "https://allthegams.github.io/atgfiles/drift-boss/icon.png",
+      "subtext": "Drift Boss",
+      "source": "https://allthegams.github.io/atgfiles/drift-boss/"
+    },
+    {
+      "imgSrc": "https://allthegams.github.io/atgfiles/drifthunters/icon.jpg",
+      "subtext": "Drift Hunters",
+      "source": "https://allthegams.github.io/atgfiles/drifthunters/"
+    },
+    {
+      "imgSrc": "https://allthegams.github.io/atgfiles/ducklife1/ducklife1.png",
+      "subtext": "Ducklife 1",
+      "source": "https://allthegams.github.io/atgfiles/ducklife1/"
+    },
+    {
+      "imgSrc": "https://allthegams.github.io/atgfiles/ducklife2/ducklife2.jpg",
+      "subtext": "Ducklife 2",
+      "source": "https://allthegams.github.io/atgfiles/ducklife2/"
+    },
+    {
+      "imgSrc": "https://allthegams.github.io/atgfiles/ducklife3/ducklife3.png",
+      "subtext": "Ducklife 3",
+      "source": "https://allthegams.github.io/atgfiles/ducklife/"
+    },
+    {
+      "imgSrc": "https://allthegams.github.io/atgfiles/ducklife4/icon.png",
+      "subtext": "Ducklife 4",
+      "source": "https://allthegams.github.io/atgfiles/ducklife4/"
+    },
+    {
+      "imgSrc": "https://allthegams.github.io/atgfiles/fireboywatergirl/icon.png",
+      "subtext": "Fireboy and Watergirl",
+      "source": "https://allthegams.github.io/atgfiles/fireboywatergirl/"
+    },
+    {
+      "imgSrc": "https://allthegams.github.io/atgfiles/flappybird/icon.png",
+      "subtext": "Flappy Bird",
+      "source": "https://allthegams.github.io/atgfiles/flappybird/"
+    },
+    {
+      "imgSrc": "https://allthegams.github.io/atgfiles/fluidsim/icon.png",
+      "subtext": "Fluid Sim",
+      "source": "https://allthegams.github.io/atgfiles/fluidsim/"
+    },
+    {
+      "imgSrc": "https://allthegams.github.io/atgfiles/fnaf/splash.jpeg",
+      "subtext": "FNAF",
+      "source": "https://allthegams.github.io/atgfiles/fnaf/"
+    },
+    {
+      "imgSrc": "https://allthegams.github.io/atgfiles/friendlyfire/assets/appicon.iconset/icon_1024x1024.png",
+      "subtext": "Friendly Fire",
+      "source": "https://allthegams.github.io/atgfiles/friendlyfire/"
     }
   ]
   
