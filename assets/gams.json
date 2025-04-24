@@ -135,7 +135,7 @@
       "source": "https://allthegams.github.io/atgfiles/colorswitch/"
     },
     {
-      "imgSrc": "https://allthegams.github.io/atgfiles/cookieclicker/icon.png",
+      "imgSrc": "https://allthegams.github.io/atgfiles/cookieclicker/img/perfectCookie.png",
       "subtext": "Cookie Clicker",
       "source": "https://allthegams.github.io/atgfiles/cookieclicker/"
     },
@@ -150,7 +150,7 @@
       "source": "https://allthegams.github.io/atgfiles/cuttherope/"
     },
     {
-      "imgSrc": "https://allthegams.github.io/atgfiles/cuttherope-holiday/icon.png",
+      "imgSrc": "https://allthegams.github.io/atgfiles/cuttherope-holiday/Holiday_Gift.webp",
       "subtext": "Cut The Rope Holiday",
       "source": "https://allthegams.github.io/atgfiles/cuttherope-holiday/"
     },
@@ -175,13 +175,8 @@
       "source": "https://allthegams.github.io/atgfiles/doodlejump/"
     },
     {
-      "imgSrc": "https://allthegams.github.io/atgfiles/cuttherope/icon.png",
-      "subtext": "Cut The Rope",
-      "source": "https://allthegams.github.io/atgfiles/cuttherope/"
-    },
-    {
       "imgSrc": "https://allthegams.github.io/atgfiles/dragonballdevolution/images.jpeg",
-      "subtext": "Dragon Ball devolution",
+      "subtext": "Dragon Ball Devolution",
       "source": "https://allthegams.github.io/atgfiles/dragonballdevolution/"
     }
   ]
