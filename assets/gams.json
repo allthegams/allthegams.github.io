@@ -233,6 +233,77 @@
       "imgSrc": "https://allthegams.github.io/atgfiles/friendlyfire/assets/appicon.iconset/icon_1024x1024.png",
       "subtext": "Friendly Fire",
       "source": "https://allthegams.github.io/atgfiles/friendlyfire/"
+    },
+    {
+      "imgSrc": "https://allthegams.github.io/atgfiles/fruitninja/FruitNinjaTeaser.jpg",
+      "subtext": "Fruit Ninja",
+      "source": "https://allthegams.github.io/atgfiles/fruitninja/"
+    },
+    {
+      "imgSrc": "https://allthegams.github.io/atgfiles/gamemaker/images.jpeg",
+      "subtext": "GameMaker",
+      "source": "https://allthegams.github.io/atgfiles/gamemaker/"
+    },
+    {
+      "imgSrc": "https://allthegams.github.io/atgfiles/gba/icon.png",
+      "subtext": "GBA Emulator",
+      "source": "https://allthegams.github.io/atgfiles/gba/"
+    },
+    {
+      "imgSrc": "https://allthegams.github.io/atgfiles/geometrydash/icon.png",
+      "subtext": "Geometry Dash",
+      "source": "https://allthegams.github.io/atgfiles/geometrydash/"
+    },
+    {
+      "imgSrc": "https://allthegams.github.io/atgfiles/getawayshootout/icon.jpeg",
+      "subtext": "Getaway Shootout",
+      "source": "https://allthegams.github.io/atgfiles/getawayshootout/"
+    },
+    {
+      "imgSrc": "https://allthegams.github.io/atgfiles/gunmayhem/icon.png",
+      "subtext": "Gun Mayhem",
+      "source": "https://allthegams.github.io/atgfiles/gunmayhem/"
+    },
+    {
+      "imgSrc": "https://allthegams.github.io/atgfiles/gunmayhem2/icon.png",
+      "subtext": "Gun Mayhem 2",
+      "source": "https://allthegams.github.io/atgfiles/gunmayhem2/"
+    },
+    {
+      "imgSrc": "https://allthegams.github.io/atgfiles/gunmayhemredux/icon.png",
+      "subtext": "Gun Mayhem Redux",
+      "source": "https://allthegams.github.io/atgfiles/gunmayhemredux/"
+    },
+    {
+      "imgSrc": "https://allthegams.github.io/atgfiles/halloween2016/logo.png",
+      "subtext": "Halloween 2016",
+      "source": "https://allthegams.github.io/atgfiles/halloween2016/"
+    },
+    {
+      "imgSrc": "https://allthegams.github.io/atgfiles/helixjump/gameIcon.png",
+      "subtext": "Helix Jump",
+      "source": "https://allthegams.github.io/atgfiles/helixjump/"
+    },
+    {
+      "imgSrc": "https://allthegams.github.io/atgfiles/idlebreakout/image.png",
+      "subtext": "Idle Breakout",
+      "source": "https://allthegams.github.io/atgfiles/idlebreakout/"
+    },
+    {
+      "imgSrc": "https://allthegams.github.io/atgfiles/iwbtc/icon.png",
+      "subtext": "IWBTC",
+      "source": "https://allthegams.github.io/atgfiles/iwbtc/"
+    },
+    {
+      "imgSrc": "https://allthegams.github.io/atgfiles/jetpackjoyride/logo.jpeg",
+      "subtext": "Jetpack Joyride",
+      "source": "https://allthegams.github.io/atgfiles/jetpackjoyride/"
+    },
+    {
+      "imgSrc": "https://allthegams.github.io/atgfiles/kniferain/icon-256.png",
+      "subtext": "Knife Rain",
+      "source": "https://allthegams.github.io/atgfiles/kniferain/"
     }
+    
   ]
   
