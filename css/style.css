@@ -222,3 +222,13 @@ body {
     color: #000000;
     transform: scale(1.05);
 }
+
+.about {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* vertical centering */
+    align-items: center;     /* horizontal centering */
+    height: 40vh;           /* full viewport height */
+    text-align: center;      /* center text inside each element */
+    color: white;      
+}
